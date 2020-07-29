@@ -1,2 +1,2 @@
-# SFHM - Sistemas Embebidos
-Repositorio de la clase de Sistemas Embebidos
+# SFHM - Microprocesadores y Microcontroladores
+Repositorio de la clase de Microprocesadores y Microcontroladores
