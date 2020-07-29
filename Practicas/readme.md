@@ -1,2 +1,2 @@
-# Prácticas de la clase de Sistemas Embebidos
+# Prácticas de la clase de Microprocesadores y Microcontroladores
 ## SFHM
