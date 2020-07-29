@@ -1,1 +1,1 @@
-# Laboratorios de la clase de Sistemas Embebidos
+# Laboratorios de la clase de Microprocesadores y Microcontroladores
