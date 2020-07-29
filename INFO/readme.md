@@ -1,2 +1,2 @@
-# Información general para Sistemas Embebidos
+# Información general para Microprocesadores y Microcontroladores
 ## .SFHM.
