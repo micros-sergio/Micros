@@ -2,9 +2,9 @@
 ## 1. Nombre
 ## 2. Problema o problemática que resuelve
 ## 3. Descripción del funcionamiento esperado
-## 4. Principales variables involucradas
-## 5. ALcances o parámteros de funcionamiento
-## 6. Limitaciones o posibles mejoras
+## 4. Variables involucradas
+## 5. Alcances y parámetros de funcionamiento
+## 6. Limitaciones y posibles mejoras
 
 # Presentación
 ## El documento resulante será una presentación (en powerpoint o similar) en donde
